@@ -88,7 +88,7 @@ export const facultyList = [
   {
     id: 'zhenggz',
     name: '郑国轴',
-    title: '信息所副所长',
+    title: '信息所所长',
     org: '浙江大学舟山海洋研究中心',
     roleType: 'engineering',
     roleLabel: '工程 PI',
@@ -157,8 +157,9 @@ export const memberList = [
   { id: 'm-zgz-3', name: '魏浩然', advisorId: 'zhenggz', type: 'engineer', year: 2023, platform: '舟山海洋研究中心' },
 
   // 李传昆（舟山海洋研究中心）
-  { id: 'm-lck-1', name: '潘星辰', advisorId: 'lick', type: 'phd',     year: 2024, platform: '舟山海洋研究中心' },
-  { id: 'm-lck-2', name: '段惜羽', advisorId: 'lick', type: 'master',  year: 2025, platform: '舟山海洋研究中心' },
+  { id: 'm-lck-1', name: '甘坤',   advisorId: 'lick', type: 'master',  year: 2024, platform: '舟山海洋研究中心' },
+  { id: 'm-lck-2', name: '邓鸿杰', advisorId: 'lick', type: 'master',  year: 2024, platform: '舟山海洋研究中心' },
+  { id: 'm-lck-3', name: '朱正豪', advisorId: 'lick', type: 'master',  year: 2025, platform: '舟山海洋研究中心' },
 ];
 
 // ---------- 衍生数据 ----------
